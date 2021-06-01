@@ -1,0 +1,1 @@
+# springTest-junit4-sample
